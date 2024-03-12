@@ -1,3 +1,3 @@
 # Tic Tac Toe
-Hi, As a begginer this is my first website using HTML,CSS & JavaScript.
+Hi, As a beginner I have made this Tic Tac Toe game website using HTML,CSS & JavaScript.
  
